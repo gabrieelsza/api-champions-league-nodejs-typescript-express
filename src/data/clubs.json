@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "name": "Liverpool",
+        "pais": "Inglaterra",
+        "cidade": "Liverpool",
+        "sigla": "LIV",
+        "grupoPais": "ENG",
+        "fundacao": 1892
+      },
+
+      {
+        "id": 2,
+        "name": "Arsenal",
+        "pais": "Inglaterra",
+        "cidade": "Londres",
+        "sigla": "ARS",
+        "grupoPais": "ENG",
+        "fundacao": 1886
+      },
+
+      {
+        "id": 3,
+        "name": "Manchester City",
+        "pais": "Inglaterra",
+        "cidade": "Manchester",
+        "sigla": "MCI",
+        "grupoPais": "ENG",
+        "fundacao": 1880
+      },
+      {
+        "id": 4,
+        "name": "Chelsea",
+        "pais": "Inglaterra",
+        "cidade": "Londres",
+        "sigla": "CHE",
+        "grupoPais": "ENG",
+        "fundacao": 1905
+      },
+      {
+        "id": 5,
+        "name": "Tottenham",
+        "pais": "Inglaterra",
+        "cidade": "Londres",
+        "sigla": "TOT",
+        "grupoPais": "ENG",
+        "fundacao": 1882
+      },
+      {
+        "id": 6,
+        "name": "Newcastle",
+        "pais": "Inglaterra",
+        "cidade": "Newcastle",
+        "sigla": "NEW",
+        "grupoPais": "ENG",
+        "fundacao": 1892
+      },
+      {
+        "id": 7,
+        "name": "Napoli",
+        "pais": "Itália",
+        "cidade": "Nápoles",
+        "sigla": "NAP",
+        "grupoPais": "ITA",
+        "fundacao": 1926
+      },
+      {
+        "id": 8,
+        "name": "Inter",
+        "pais": "Itália",
+        "cidade": "Milão",
+        "sigla": "INT",
+        "grupoPais": "ITA",
+        "fundacao": 1908
+      },
+      {
+        "id": 9,
+        "name": "Atalanta",
+        "pais": "Itália",
+        "cidade": "Bérgamo",
+        "sigla": "ATA",
+        "grupoPais": "ITA",
+        "fundacao": 1907
+      },
+      {
+        "id": 10,
+        "name": "Juventus",
+        "pais": "Itália",
+        "cidade": "Turim",
+        "sigla": "JUV",
+        "grupoPais": "ITA",
+        "fundacao": 1897
+      },
+      {
+        "id": 11,
+        "name": "Barcelona",
+        "pais": "Espanha",
+        "cidade": "Barcelona",
+        "sigla": "BAR",
+        "grupoPais": "ESP",
+        "fundacao": 1899
+      },
+      {
+        "id": 12,
+        "name": "Real Madrid",
+        "pais": "Espanha",
+        "cidade": "Madri",
+        "sigla": "RMA",
+        "grupoPais": "ESP",
+        "fundacao": 1902
+      },
+      {
+        "id": 13,
+        "name": "Atleti",
+        "pais": "Espanha",
+        "cidade": "Madri",
+        "sigla": "ATM",
+        "grupoPais": "ESP",
+        "fundacao": 1903
+      },
+      {
+        "id": 14,
+        "name": "Athletic Club",
+        "pais": "Espanha",
+        "cidade": "Bilbao",
+        "sigla": "ATH",
+        "grupoPais": "ESP",
+        "fundacao": 1898
+      },
+      {
+        "id": 15,
+        "name": "Villarreal",
+        "pais": "Espanha",
+        "cidade": "Villarreal",
+        "sigla": "VIL",
+        "grupoPais": "ESP",
+        "fundacao": 1923
+      },
+      {
+        "id": 16,
+        "name": "Bayern München",
+        "pais": "Alemanha",
+        "cidade": "Munique",
+        "sigla": "BAY",
+        "grupoPais": "GER",
+        "fundacao": 1900
+      },
+      {
+        "id": 17,
+        "name": "Leverkusen",
+        "pais": "Alemanha",
+        "cidade": "Leverkusen",
+        "sigla": "B04",
+        "grupoPais": "GER",
+        "fundacao": 1904
+      },
+      {
+        "id": 18,
+        "name": "Frankfurt",
+        "pais": "Alemanha",
+        "cidade": "Frankfurt",
+        "sigla": "SGE",
+        "grupoPais": "GER",
+        "fundacao": 1899
+      },
+      {
+        "id": 19,
+        "name": "B. Dortmund",
+        "pais": "Alemanha",
+        "cidade": "Dortmund",
+        "sigla": "BVB",
+        "grupoPais": "GER",
+        "fundacao": 1909
+      },
+      {
+        "id": 20,
+        "name": "Paris",
+        "pais": "França",
+        "cidade": "Paris",
+        "sigla": "PSG",
+        "grupoPais": "FRA",
+        "fundacao": 1970
+      },
+      {
+        "id": 21,
+        "name": "Marseille",
+        "pais": "França",
+        "cidade": "Marselha",
+        "sigla": "OM",
+        "grupoPais": "FRA",
+        "fundacao": 1899
+      },
+      {
+        "id": 22,
+        "name": "Monaco",
+        "pais": "França",
+        "cidade": "Mônaco",
+        "sigla": "ASM",
+        "grupoPais": "FRA",
+        "fundacao": 1924
+      },
+      {
+        "id": 23,
+        "name": "PSV",
+        "pais": "Países Baixos",
+        "cidade": "Eindhoven",
+        "sigla": "PSV",
+        "grupoPais": "NED",
+        "fundacao": 1913
+      },
+      {
+        "id": 24,
+        "name": "Ajax",
+        "pais": "Países Baixos",
+        "cidade": "Amsterdã",
+        "sigla": "AJA",
+        "grupoPais": "NED",
+        "fundacao": 1900
+      },
+      {
+        "id": 25,
+        "name": "Benfica",
+        "pais": "Portugal",
+        "cidade": "Lisboa",
+        "sigla": "BEN",
+        "grupoPais": "POR",
+        "fundacao": 1904
+      },
+      {
+        "id": 26,
+        "name": "Sporting CP",
+        "pais": "Portugal",
+        "cidade": "Lisboa",
+        "sigla": "SCP",
+        "grupoPais": "POR",
+        "fundacao": 1906
+      },
+      {
+        "id": 27,
+        "name": "Club Brugge",
+        "pais": "Bélgica",
+        "cidade": "Bruges",
+        "sigla": "BRU",
+        "grupoPais": "BEL",
+        "fundacao": 1891
+      },
+      {
+        "id": 28,
+        "name": "Union SG",
+        "pais": "Bélgica",
+        "cidade": "Bruxelas",
+        "sigla": "USG",
+        "grupoPais": "BEL",
+        "fundacao": 1897
+      },
+      {
+        "id": 29,
+        "name": "Galatasaray",
+        "pais": "Turquia",
+        "cidade": "Istambul",
+        "sigla": "GAL",
+        "grupoPais": "TUR",
+        "fundacao": 1905
+      },
+      {
+        "id": 30,
+        "name": "Slavia Praha",
+        "pais": "Tchéquia",
+        "cidade": "Praga",
+        "sigla": "SLA",
+        "grupoPais": "CZE",
+        "fundacao": 1892
+      },
+      {
+        "id": 31,
+        "name": "Bodø/Glimt",
+        "pais": "Noruega",
+        "cidade": "Bodø",
+        "sigla": "BOD",
+        "grupoPais": "NOR",
+        "fundacao": 1916
+      },
+      {
+        "id": 32,
+        "name": "Olympiacos",
+        "pais": "Grécia",
+        "cidade": "Pireu",
+        "sigla": "OLY",
+        "grupoPais": "GRE",
+        "fundacao": 1925
+      },
+      {
+        "id": 33,
+        "name": "Copenhagen",
+        "pais": "Dinamarca",
+        "cidade": "Copenhague",
+        "sigla": "FCK",
+        "grupoPais": "DEN",
+        "fundacao": 1992
+      },
+      {
+        "id": 34,
+        "name": "Pafos",
+        "pais": "Chipre",
+        "cidade": "Pafos",
+        "sigla": "PFO",
+        "grupoPais": "CYP",
+        "fundacao": 2014
+      },
+      {
+        "id": 35,
+        "name": "Qarabağ",
+        "pais": "Azerbaijão",
+        "cidade": "Agdam",
+        "sigla": "QAR",
+        "grupoPais": "AZE",
+        "fundacao": 1951
+      },
+      {
+        "id": 36,
+        "name": "Kairat Almaty",
+        "pais": "Cazaquistão",
+        "cidade": "Almaty",
+        "sigla": "KAI",
+        "grupoPais": "KAZ",
+        "fundacao": 1954
+      }
+]
